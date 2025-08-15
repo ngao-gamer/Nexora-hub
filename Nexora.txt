@@ -2371,7 +2371,7 @@ Tabs.Info:AddButton({
     end
 })
 Tabs.Info:AddButton({
-    Title="None",
+    Title="Nexora hub",
     Description="Facebook",
     Callback=function()
         setclipboard(tostring("https://www.facebook.com/"))
